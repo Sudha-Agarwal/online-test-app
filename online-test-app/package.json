@@ -1,7 +1,7 @@
 {
   "name": "online-test-app",
   "version": "0.0.0",
-  "description": "server.js",
+  "main":"server.js",
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
